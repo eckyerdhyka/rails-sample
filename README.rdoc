@@ -1,0 +1,1 @@
+ruby file_content_counter.rb /path/dir
